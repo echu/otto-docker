@@ -6,3 +6,7 @@ application {
 customization "dev" {
     vagrantfile = "./Vagrantfile"
 }
+
+customization "dev-dep" {
+    vagrantfile = "./Vagrantfile"
+}
